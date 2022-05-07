@@ -1,6 +1,6 @@
 # Realtime Chat Application
 
-![Video Chat](https://i.ibb.co/7WZRLD1/122.jpg)
+![Video Chat](https://github.com/ANMOLCODES/AirChat/blob/master/Media/airchat2.png)
 
 ## Introduction
   React Video Chat Application using WebRTC.
